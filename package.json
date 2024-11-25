@@ -1,0 +1,31 @@
+{
+  "name": "@cinderco/release-it-calver-plugin",
+  "version": "0.0.3",
+  "type": "module",
+  "main": "src/calver-plugin.js",
+  "files": [
+    "src/calver-plugin.js"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "lint": "npx @biomejs/biome check src/",
+    "lint:fix": "npx @biomejs/biome check --write src/",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "release-it": "*",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.5"
+  },
+  "peerDependencies": {
+    "release-it": "^17.10.0"
+  },
+  "dependencies": {
+    "@date-fns/utc": "^2.1.0",
+    "date-fns": "^4.1.0"
+  },
+  "description": "## Installation",
+  "author": "",
+  "license": "ISC"
+}
