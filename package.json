@@ -1,6 +1,6 @@
 {
   "name": "@cinderco/release-it-calver-plugin",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "type": "module",
   "main": "src/calver-plugin.js",
   "files": [
