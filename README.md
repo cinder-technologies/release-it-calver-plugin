@@ -1,5 +1,7 @@
 # release-it-calver-plugin
 
+![NPM Version](https://img.shields.io/npm/v/%40cinderco%2Frelease-it-calver-plugin)
+
 This is a plugin for [release-it](https://github.com/release-it/release-it/) that lets you use [CalVer](https://calver.org/).
 
 It's an opinionated plugin. When you create a release with release-it, the plugin will:

@@ -25,7 +25,11 @@
     "@date-fns/utc": "^2.1.0",
     "date-fns": "^4.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinder-technologies/release-it-calver-plugin"
+  },
   "description": "## Installation",
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
